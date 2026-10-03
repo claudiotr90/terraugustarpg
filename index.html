@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Compêndio wiki de Terraugusta">
+  <title>Compêndio de Terraugusta</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="menu-button" id="menuButton" aria-label="Abrir menu">☰</button>
+    <a class="brand" href="#home">
+      <span class="brand-mark">T</span>
+      <span><strong>Terraugusta</strong><small>Compêndio</small></span>
+    </a>
+    <div class="search-wrap">
+      <input id="searchInput" type="search" placeholder="Pesquisar no Compêndio de Terraugusta" autocomplete="off">
+      <button id="searchButton">Pesquisar</button>
+      <div id="searchSuggestions" class="suggestions"></div>
+    </div>
+    <button id="randomButton" class="ghost">Página aleatória</button>
+  </header>
+
+  <div class="layout">
+    <aside id="sidebar" class="sidebar">
+      <nav>
+        <a href="#home">Página principal</a>
+        <a href="#all">Todas as páginas</a>
+        <a href="#issues">Abertos & provisórios</a>
+        <hr>
+        <h3>Territórios</h3>
+        <div id="regionLinks"></div>
+        <hr>
+        <h3>Tipos</h3>
+        <div id="typeLinks"></div>
+      </nav>
+      <div class="sidebar-note">
+        <strong>Legenda</strong>
+        <span class="badge canon">CANON</span>
+        <span class="badge open">ABERTO</span>
+        <span class="badge provisional">PROVISÓRIO</span>
+      </div>
+    </aside>
+
+    <main id="content" class="content" tabindex="-1"></main>
+  </div>
+
+  <footer>
+    <span>Compêndio de Terraugusta · versão <span id="version"></span></span>
+    <span>Site estático — sem servidor ou mensalidade obrigatória.</span>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
