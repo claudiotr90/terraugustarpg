@@ -1,0 +1,59 @@
+{
+  "updated_at": "2026-11-18T19:44:34.559911+00:00",
+  "mirrored_at": "2026-11-19T00:05:22.773026+00:00",
+  "source_site": "https://compendios-mestres-claudio.claudiocareerdublin.chatgpt.site",
+  "documents": [
+    {
+      "id": "terraugusta",
+      "title": "CM Terraugusta",
+      "updated_at": "2026-11-18T19:44:34.559911+00:00",
+      "version": 12,
+      "text_url": "https://claudiotr90.github.io/terraugustarpg/compendios/terraugusta.txt",
+      "markdown_url": "https://claudiotr90.github.io/terraugustarpg/compendios/terraugusta.md",
+      "sha256": "764652d9af6dbcd68038ae736bc770a8ea4c0a9691670db97c7fdad30ce7e7da",
+      "size_bytes": 271786,
+      "library_file_id": "libfile_a6ca12b4d53c81919fbe1fb055b44fda",
+      "raw_text_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/terraugusta.txt",
+      "raw_markdown_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/terraugusta.md"
+    },
+    {
+      "id": "reborn-in-london",
+      "title": "CM Reborn in London",
+      "updated_at": "2026-11-18T19:44:34.559911+00:00",
+      "version": 25,
+      "text_url": "https://claudiotr90.github.io/terraugustarpg/compendios/reborn-in-london.txt",
+      "markdown_url": "https://claudiotr90.github.io/terraugustarpg/compendios/reborn-in-london.md",
+      "sha256": "8ae25c176bdb5f15da61bc9c001037694e3af9499b0b343d0388be48928fb557",
+      "size_bytes": 76701,
+      "library_file_id": "libfile_7465107489a08191a486e1777bfb86f4",
+      "raw_text_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/reborn-in-london.txt",
+      "raw_markdown_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/reborn-in-london.md"
+    },
+    {
+      "id": "rage-across-brent",
+      "title": "CM Rage Across Brent",
+      "updated_at": "2026-11-18T19:44:34.559911+00:00",
+      "version": 4,
+      "text_url": "https://claudiotr90.github.io/terraugustarpg/compendios/rage-across-brent.txt",
+      "markdown_url": "https://claudiotr90.github.io/terraugustarpg/compendios/rage-across-brent.md",
+      "sha256": "5712a415a7234beeb66ee8509ef50f3bf2316cf6097831694b6979837dcae3f2",
+      "size_bytes": 23171,
+      "library_file_id": "libfile_b5072a752f988191b5c6454adc8e605b",
+      "raw_text_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/rage-across-brent.txt",
+      "raw_markdown_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/rage-across-brent.md"
+    },
+    {
+      "id": "port-mercer-by-night",
+      "title": "CM Port Mercer By Night",
+      "updated_at": "2026-11-18T19:44:34.559911+00:00",
+      "version": 10,
+      "text_url": "https://claudiotr90.github.io/terraugustarpg/compendios/port-mercer-by-night.txt",
+      "markdown_url": "https://claudiotr90.github.io/terraugustarpg/compendios/port-mercer-by-night.md",
+      "sha256": "bbf680e9b194c33851a1300108a31a7d72a5c41e5b03f3bd008b2812382d1c5f",
+      "size_bytes": 41827,
+      "library_file_id": "libfile_40d3f85da9f081918766cca8233d437e",
+      "raw_text_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/port-mercer-by-night.txt",
+      "raw_markdown_url": "https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/port-mercer-by-night.md"
+    }
+  ]
+}

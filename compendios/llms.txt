@@ -1,0 +1,27 @@
+# Compêndios Mestres
+
+Textos integrais dos quatro CMs em português do Brasil.
+
+[Catálogo de versões e integridade](https://claudiotr90.github.io/terraugustarpg/compendios/catalogo.json)
+
+## Textos no GitHub Pages
+
+- [CM Terraugusta](https://claudiotr90.github.io/terraugustarpg/compendios/terraugusta.txt) - versão 12; Markdown: https://claudiotr90.github.io/terraugustarpg/compendios/terraugusta.md
+- [CM Reborn in London](https://claudiotr90.github.io/terraugustarpg/compendios/reborn-in-london.txt) - versão 25; Markdown: https://claudiotr90.github.io/terraugustarpg/compendios/reborn-in-london.md
+- [CM Rage Across Brent](https://claudiotr90.github.io/terraugustarpg/compendios/rage-across-brent.txt) - versão 4; Markdown: https://claudiotr90.github.io/terraugustarpg/compendios/rage-across-brent.md
+- [CM Port Mercer By Night](https://claudiotr90.github.io/terraugustarpg/compendios/port-mercer-by-night.txt) - versão 10; Markdown: https://claudiotr90.github.io/terraugustarpg/compendios/port-mercer-by-night.md
+
+## Acesso direto aos arquivos no GitHub
+
+- [CM Terraugusta](https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/terraugusta.txt) - Markdown: https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/terraugusta.md
+- [CM Reborn in London](https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/reborn-in-london.txt) - Markdown: https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/reborn-in-london.md
+- [CM Rage Across Brent](https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/rage-across-brent.txt) - Markdown: https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/rage-across-brent.md
+- [CM Port Mercer By Night](https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/port-mercer-by-night.txt) - Markdown: https://raw.githubusercontent.com/claudiotr90/terraugustarpg/main/compendios/port-mercer-by-night.md
+
+## Regras de leitura
+
+- Consulte a versão atual antes de reutilizar uma cópia antiga.
+- CANON é material confirmado; ABERTO identifica lacunas; PROVISÓRIO e propostas não são fatos confirmados.
+- Decisões explícitas posteriores do autor prevalecem. Terraugusta conserva o histórico; o bloco de revisão mais recente tem precedência sobre passagens antigas conflitantes.
+- Preserve grafias, cronologia e separação entre os quatro cenários. Homônimos não autorizam importar histórias entre continuidades.
+- Ler os arquivos não atualiza automaticamente a memória persistente de uma IA.
